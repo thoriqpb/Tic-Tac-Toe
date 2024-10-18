@@ -3,7 +3,7 @@
 **Tic Tac Toe** is an interesting game that my friends and I made when we were still freshmen. We built it together using C++, which was an exciting way to learn programming fundamentals and teamwork. This project made me love coding even more! 👾
 
 ### How To Play
-1. Download the [TicTacToe-Team7-2.1.cpp](url)
+1. Download the [TicTacToe-Team7-2.1.cpp](https://github.com/thoriqpb/Tic-Tac-Toe/blob/main/TicTacToe-Team7-2.1.cpp)
 2. Compile it, run it, and you're ready to play!
 3. Enjoy the game!
 
